@@ -29,6 +29,8 @@ function sadClick(){
 
                 </div>
                 <small class="text-muted">9 mins</small>
+                <i class="bi bi-bookmark-check-fill"></i>
+                <i class="bi bi-bookmark-dash-fill"></i>
               </div>
             </div>
           </div>
